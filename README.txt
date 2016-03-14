@@ -1,1 +1,1 @@
-This repository contains some algorithms that I practiced.
+Some sorting and searching algorithms.
